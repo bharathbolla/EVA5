@@ -8,7 +8,6 @@
 
 
 ### Model Parameters Summary
-
 ----------------------------------------------------------------
         Layer (type)               Output Shape         Param #
 ================================================================
@@ -44,7 +43,7 @@ Non-trainable params: 0
 
 ### Logs
 
-0%|          | 0/469 [00:00<?, ?it/s]/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:61: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+0%|          | 0/469 [00:00<?, ?it/s]/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:61:  Change the call to include dim=X as an argument.
 loss=0.09364736080169678 batch_id=468: 100%|██████████| 469/469 [00:12<00:00, 36.47it/s]
   0%|          | 0/469 [00:00<?, ?it/s]
 Test set: Average loss: 0.0646, Accuracy: 9817/10000 (98.17%)
