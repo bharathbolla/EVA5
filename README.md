@@ -21,8 +21,8 @@ EVA5 Phase=1 Deep Learning Course by The School of AI
    ### 2. At 19th epoch train accuracy: 99.33 and test accuracy: 99.04 (we see overfitting)
    ### 3. Need to use Regularization
 
-## Second Model
 
+## Second Model
 ## Target:
   ### 1.Add Regularization-Dropout.
   ### 2.Add Dropout to each layer.
@@ -36,4 +36,21 @@ EVA5 Phase=1 Deep Learning Course by The School of AI
    ### 1.The model is not over-fitting.
    ### 2.The model is under fitting because we using droupout to every layer and making model to train hard.
    ### 3.Add a layer after Gobal average pooling. Adding dense layer after GAP
+   
+## Third Model
+## Target:
+    ## 1.Increase capacity of model.
+    ## 2.Add a layer after Gobal average pooling.Adding dense layer after GAP
+
+## Result:
+    ## 1.Parameters:9,660
+    ## 2.Best train accuracy:98.84
+    ## 3.Best test accuracy:99.39(13th epoch)
+
+## Analysis:
+   ## 1:The model is not over fitting.
+   ## 2.At (18th epoch) train accuracy:98.92 and test accuracy:99.46 .
+   ## 3.But we are not getting 99.40+ below 15th epoch.
+   ## 4.Try LR OPtimizers and schedulers
+   ## 4.Try LR OPtimizers and schedulers
 
