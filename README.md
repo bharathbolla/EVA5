@@ -52,5 +52,34 @@ EVA5 Phase=1 Deep Learning Course by The School of AI
    ## 2.At (18th epoch) train accuracy:98.92 and test accuracy:99.46 .
    ## 3.But we are not getting 99.40+ below 15th epoch.
    ## 4.Try LR OPtimizers and schedulers
-   ## 4.Try LR OPtimizers and schedulers
+
+## Fourth Model
+## Target:
+   ### 1. Increase the capacity of the model
+
+## Result:
+   ### 1.Parameters:9,980
+   ##3 2.Best train accuracy:98.89
+   ### 3.Best test accuracy:99.37(15th epoch)
+
+
+## Fifth Model
+## Analysis:
+   ### 1.We got test accuracy: 99.47 and 99.45 (17th and 19th epoch).
+   ### 2.The model is not over fitting .
+   ### 3.By seeing images all numbers are not in same shape.So, add rotation
+ ## Target:
+   ### 1.Add rotation 
+   ### 2. Add Onestep Cycle LR policy
+
+## Result:
+  ### 1:Parameters:9,980
+  ### 2.Best train accuracy:98.67
+  ### 3.Best test accuracy:99.44(15th epoch)
+
+## Analysis:
+   ### 1:The model is working.
+   ### 2:we can see 99.4+ being acheived in the last four epochs.
+   ### 3:The test accuracy increased because of RandomRotation 
+   ### 4. The consistency and 99.4 was acheived so early because of one step cycle LR
 
