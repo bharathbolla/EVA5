@@ -87,7 +87,7 @@ EVA5 Phase=1 Deep Learning Course by The School of AI
  ## Model
  ----------------------------------------------------------------
         Layer (type)               Output Shape         Param #
-================================================================
+
             Conv2d-1           [-1, 16, 26, 26]             144
               ReLU-2           [-1, 16, 26, 26]               0
        BatchNorm2d-3           [-1, 16, 26, 26]              32
