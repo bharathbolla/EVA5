@@ -1,4 +1,4 @@
-# EVA5
+# EVA5- Assignment-8
 EVA5 Phase=1 Deep Learning Course by The School of AI
 
 ## 1.Go through this repository: https://github.com/kuangliu/pytorch-cifar (Links to an external site.)
