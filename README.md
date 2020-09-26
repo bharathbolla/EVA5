@@ -1,2 +1,4 @@
-# EVA5
-EVA5 Phase=1 Deep Learning Course by The School of AI
+## EVA5
+### Applied Albumentations, ToTensor, HorizontalFlip, Normalize and cutout
+### Implemented GradCam function as module for debugging
+### Acheived final test accuracy of 88.23 in 25 epochs
