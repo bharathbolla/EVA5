@@ -18,13 +18,13 @@ Accuracy of  ship : 100 %
 Accuracy of truck : 100 %
 
 ### LR Range Test Accuracy vs LR Plot
-![alt text](https://github.com/bharathbolla/EVA4/blob/S10/Misclassified%20Images/gradcam_incorrect_0_tfrog_pdeer.png)
+![alt text](https://github.com/bharathbolla/EVA5/blob/S11/Plots/lr%20vs%20accuracy%20plot.png)
 ### LR Plot
-![alt text](https://github.com/bharathbolla/EVA4/blob/S10/Misclassified%20Images/gradcam_incorrect_0_tfrog_pdeer.png)
+![alt text](https://github.com/bharathbolla/EVA5/blob/S11/Plots/lr_plot.png)
 ### Accuracy Plot
-![alt text](https://github.com/bharathbolla/EVA4/blob/S10/Misclassified%20Images/gradcam_incorrect_0_tfrog_pdeer.png)
+![alt text](https://github.com/bharathbolla/EVA5/blob/S11/Plots/train_test_accuracy_plot.png)
 
 ### Cyclical LR Plot
-![alt text](https://github.com/bharathbolla/EVA4/blob/S10/Misclassified%20Images/gradcam_incorrect_0_tfrog_pdeer.png)
+![https://github.com/bharathbolla/EVA5/blob/S11/Plots/cyclical_lr_plot.png)
 
 
